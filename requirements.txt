@@ -5,3 +5,6 @@ python-dotenv
 langchain-core
 langchain-mistralai
 langchain-google-firestore
+chromadb
+langchain-chroma
+langchainhub
